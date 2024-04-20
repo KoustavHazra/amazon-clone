@@ -1,1 +1,1 @@
-An AMAZON CLONE app by using React, Material UI, and Firebase.
+An AMAZON UI CLONE app by using React, Material UI, and Firebase.
